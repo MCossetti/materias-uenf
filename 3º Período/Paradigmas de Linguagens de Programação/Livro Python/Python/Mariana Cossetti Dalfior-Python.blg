@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Mariana Cossetti Dalfior-Python.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: alpha.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: Python.bib
+Warning--I didn't find a database entry for "BarrosMaciel2020"
+Warning--I didn't find a database entry for "Marcondes2018"
+Warning--empty publisher in Sousa2020
+Warning--empty journal in Tulchak2016
+Warning--empty journal in Rossum2010
+You've used 17 entries,
+            2543 wiz_defined-function locations,
+            664 strings with 6420 characters,
+and the built_in function-call counts, 4904 in all, are:
+= -- 435
+> -- 187
+< -- 14
++ -- 56
+- -- 55
+* -- 271
+:= -- 850
+add.period$ -- 51
+call.type$ -- 17
+change.case$ -- 77
+chr.to.int$ -- 17
+cite$ -- 20
+duplicate$ -- 263
+empty$ -- 411
+format.name$ -- 84
+if$ -- 987
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 31
+newline$ -- 88
+num.names$ -- 51
+pop$ -- 136
+preamble$ -- 1
+purify$ -- 108
+quote$ -- 0
+skip$ -- 179
+stack$ -- 0
+substring$ -- 120
+swap$ -- 15
+text.length$ -- 14
+text.prefix$ -- 12
+top$ -- 0
+type$ -- 80
+warning$ -- 3
+while$ -- 37
+width$ -- 19
+write$ -- 214
+(There were 5 warnings)
