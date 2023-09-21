@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
+#include "merge.h"
 
 void merge(int *V, int inicio, int meio, int fim){
 	int *temp, p1, p2, tamanho, i, j, k;
@@ -45,33 +46,16 @@ void mergeSort(int *V, int inicio, int fim) {
 	}
 }
 
-void main () {
-	int i = 0, n;
-	int *v;
-	
-	v = (int *) malloc(n*sizeof(int));
-	
-	printf("Tamanho para o vetor: ");
-	scanf("%d", &n);
-	
-	srand(time(NULL));
+void fill_array(int *V, int n){  //cria vetor aleatório
+	int i;
 	for (i=0; i<n; i++){
-		v[i] = rand()%100;
+		V[i] = rand()%100;
 	}
-	
-	printf("Vetor nao ordenado: \n");
+}
+
+void show_array(int *V, int n){ //mostra vetor
+	int i;
 	for(i=0; i<n; i++) {
-		printf("%d ", v[i]);
+		printf("%d ", V[i]);
 	}
-	
-	printf("\n");
-	
-	mergeSort(v, 0, n-1);
-	
-	printf("\nVetor ordenado: \n");
-	for(i=0; i<n; i++) {
-		printf("%d ", v[i]);
-	}
-	
-	free(v);
 }

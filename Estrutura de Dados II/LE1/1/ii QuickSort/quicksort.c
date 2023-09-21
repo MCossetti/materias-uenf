@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "quicksort.h"
 
 int particiona(int *V, int inicio, int final){
 	int esq, dir, pivo, aux;
@@ -35,33 +36,16 @@ void quickSort (int *V, int inicio, int fim) {
 	}
 }
 
-void main(){
-	int i, n;
-	int *v;
-	
-	v = (int*) malloc(n*sizeof(int));
-	
-	printf("Tamanho para o vetor: ");
-	scanf("%d", &n);
-	
-	srand(time(NULL));
-	for(i=0; i<n; i++){
-		v[i] = rand()%100;
+void fill_array(int *V, int n){  //cria vetor aleatório
+	int i;
+	for (i=0; i<n; i++){
+		V[i] = rand()%100;
 	}
+}
 
-	printf("Vetor nao ordenado: \n");	
+void show_array(int *V, int n){ //mostra vetor
+	int i;
 	for(i=0; i<n; i++) {
-		printf("%d ", v[i]);
+		printf("%d ", V[i]);
 	}
-	
-	printf("\n");
-
-	quickSort(v, 0, n-1);
-	
-	printf("\nVetor ordenado: \n");
-	for(i=0; i<n; i++) {
-		printf("%d ", v[i]);
-	}
-	
-	free(v);
 }
