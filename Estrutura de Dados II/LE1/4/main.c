@@ -2,12 +2,10 @@
 #include <stdlib.h>
 #include "ordenacaoexterna.h"
 
-int main() {
-    CreateFile("data.txt");
+int main(){
+    CreateFile("dados.txt");
     
-    mergeSortExterno("data.txt");
+    mergeSortExterno("dados.txt");
     
-    checkOrderedFile("data.txt");
-    
-    return 1;
+    checkOrderedFile("dados.txt");
 }

@@ -17,5 +17,3 @@ int findLower(stFile* file, int numFiles, int K, int* lower);
 void fillBuffer(stFile *file, int K);
 
 void checkOrderedFile(char *filename);
-
-

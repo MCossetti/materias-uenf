@@ -15,22 +15,22 @@ void merge(int *V, int inicio, int meio, int fim){
 	temp = (int *) malloc (tamanho*sizeof (int)) ;
 	
 	if (temp != NULL) {
-		for(i=0; i<tamanho; i++) {
+		for(i=0; i<tamanho; i++) { //verifica em cada posição o menor elemento
 			if(!fim1 && !fim2) {
-				if(V[p1] < V[p2])
+				if(V[p1] < V[p2]) // verifica o menor para inserir no 3 vetor
 					temp[i]=V[p1++];
 				else
 					temp[i]=V[p2++];
-				if(p1>meio) fim1=1;
+				if(p1>meio) fim1=1; //se o vetor acabar define para fim  
 				if(p2>fim) fim2=1;
 			}else{
-				if (!fim1)
-					temp[i]=V[p1++];
+				if (!fim1)			//copia o vetor que não acabou para o fim do 3 vetor
+					temp[i]=V[p1++]; 
 				else
 					temp[i]=V[p2++];
 			}
 		}
-		for (j=0, k=inicio; j<tamanho; j++, k++)
+		for (j=0, k=inicio; j<tamanho; j++, k++) //copia do vetor auxiliar para o original
 			V[k]=temp[j];
 	}
 	free(temp);
@@ -39,10 +39,10 @@ void merge(int *V, int inicio, int meio, int fim){
 void mergeSort(int *V, int inicio, int fim) {
 	int meio;
 	if(inicio < fim) {
-		meio = floor((inicio+fim)/2);
-		mergeSort (V, inicio, meio) ;
-		mergeSort (V, meio+1, fim);
-		merge (V, inicio, meio, fim) ;
+		meio = floor((inicio+fim)/2); //calcula o meio
+		mergeSort (V, inicio, meio); //calcula primeira metade (dividindo os dados)
+		mergeSort (V, meio+1, fim); //calcula a segunda metade (dividindo)
+		merge (V, inicio, meio, fim); //combina as partes de forma ordenada 
 	}
 }
 

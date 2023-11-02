@@ -15,7 +15,9 @@ int main() {
 	GeraVal(vet, n);
 
     heapSort(vet, n);
-
+	
+	printf("\n");
+	
     MostraHeap(vet, n);
 
     free(vet);

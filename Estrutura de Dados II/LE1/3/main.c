@@ -7,7 +7,7 @@ int main() {
     int i;
     int n = sizeof(arr) / sizeof(arr[0]);
 
-    printf("Array antes da ordenação: ");
+    printf("Array antes da ordenacao: ");
     for ( i = 0; i < n; i++) {
         printf("%d ", arr[i]);
     }
