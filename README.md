@@ -16,7 +16,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [MAT01203 - Cálculo Diferencial e Integral II]()
 - [x] [FIS01202 - Física Geral I]()
 - [x] [FIS01204 - Laboratório de Física Geral I]()
-- [x] [INF01104 - Lógica Digital]()
+- [x] [INF01104 - Lógica Digital](./Lógica%20Digital/README.md)
 - [x] [INF01207 - Estruturas Discretas]()
 - [x] [INF01209 - Programação II]()
 - [x] [LEL04206 - Inglês Instrumental II]()
