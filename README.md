@@ -6,8 +6,8 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [MAT01117 - Geometria Analítica e Vetores](./Geometria%20Analítica%20e%20Vetores/README.md)
 - [x] [MAT01101 - Cálculo Diferencial e Integral I](./Cálculo%20Diferencial%20e%20Integral%20I/README.md)
 - [x] [INF01105 - Organização de Computadores](./Organização%20de%20Computadores/README.md)
-- [x] [MAT01104 - Lógica Matemática]()
-- [x] [INF01106 - Programação I]()
+- [x] [MAT01104 - Lógica Matemática](./Lógica%20Matemática/README.md)
+- [x] [INF01106 - Programação I](./Programação%20I/README.md)
 - [x] [INF01101 - Introdução à Ciência da Computação]()
 - [x] [LEL04102 - Inglês Instrumental I]()
 
