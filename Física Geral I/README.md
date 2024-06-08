@@ -6,16 +6,16 @@
 
 ###### Ementa:
 
-1. Sistemas de medidas
-2. Movimento em uma dimensão
-3. Movimento em duas e três dimensões
+1. Sistemas de Medidas
+2. Movimento em Uma Dimensão
+3. Movimento em Duas e Três Dimensões
 4. Leis de Newton
 5. Aplicações das Leis de Newton
-6. Trabalho e energia
-7. Conservação de energia
-8. Sistemas de partículas e conservação da quantidade de movimento linear
+6. Trabalho e Energia
+7. Conservação de Energia
+8. Sistemas de Partículas e Conservação da Quantidade de Movimento Linear
 9. Rotação
-10. Conservação da quantidade de movimento angular
-11. Equilíbrio estático e elasticidade
+10. Conservação da Quantidade de Movimento Angular
+11. Equilíbrio Estático e Elasticidade
 12. Gravitação
 13. Fluídos
