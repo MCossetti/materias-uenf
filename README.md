@@ -14,7 +14,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 ### 2º período:
 - [x] [MAT01212 - Álgebra Linear](./Álgebra%20Linear/README.md)
 - [x] [MAT01203 - Cálculo Diferencial e Integral II](./Cálculo%20Diferencial%20e%20Integral%20II/README.md)
-- [x] [FIS01202 - Física Geral I]()
+- [x] [FIS01202 - Física Geral I](./Física%20Geral%20I/README.md)
 - [x] [FIS01204 - Laboratório de Física Geral I]()
 - [x] [INF01104 - Lógica Digital](./Lógica%20Digital/README.md)
 - [x] [INF01207 - Estruturas Discretas]()
