@@ -9,7 +9,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [MAT01104 - Lógica Matemática](./Lógica%20Matemática/README.md)
 - [x] [INF01106 - Programação I](./Programação%20I/README.md)
 - [x] [INF01101 - Introdução à Ciência da Computação](./Introdução%20à%20Ciência%20da%20Computação/README.md)
-- [x] [LEL04102 - Inglês Instrumental I]()
+- [x] [LEL04102 - Inglês Instrumental I](./Inglês%20Instrumental%20I/README.md)
 
 ### 2º período:
 - [x] [MAT01212 - Álgebra Linear](./Álgebra%20Linear/README.md)
