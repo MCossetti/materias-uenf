@@ -8,7 +8,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [INF01105 - Organização de Computadores](./Organização%20de%20Computadores/README.md)
 - [x] [MAT01104 - Lógica Matemática](./Lógica%20Matemática/README.md)
 - [x] [INF01106 - Programação I](./Programação%20I/README.md)
-- [x] [INF01101 - Introdução à Ciência da Computação]()
+- [x] [INF01101 - Introdução à Ciência da Computação](./Introdução%20à%20Ciência%20da%20Computação/README.md)
 - [x] [LEL04102 - Inglês Instrumental I]()
 
 ### 2º período:
