@@ -26,7 +26,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [ ] MAT01105 - Cálculo Diferencial e Integral III
 - [ ] FIS01103 - Física Geral II
 - [ ] FIS01109 - Laboratório de Física Geral II
-- [x] [INF01112 - Arquitetura de Computadores]()
+- [x] [INF01112 - Arquitetura de Computadores](./Arquitetura%20de%20Computadores/README.md)
 - [x] [INF01113 - Paradigmas de Linguagens de Programação]()
 - [x] [INF01114 - Estruturas de Dados I]()
 
