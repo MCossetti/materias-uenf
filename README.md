@@ -12,7 +12,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [LEL04102 - Inglês Instrumental I]()
 
 ### 2º período:
-- [x] [MAT01212 - Álgebra Linear]()
+- [x] [MAT01212 - Álgebra Linear](./Álgebra%20Linear/README.md)
 - [x] [MAT01203 - Cálculo Diferencial e Integral II]()
 - [x] [FIS01202 - Física Geral I]()
 - [x] [FIS01204 - Laboratório de Física Geral I]()
