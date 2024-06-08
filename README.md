@@ -4,7 +4,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 
 ### 1º período:
 - [x] [MAT01117 - Geometria Analítica e Vetores](./Geometria%20Analítica%20e%20Vetores/README.md)
-- [x] [MAT01101 - Cálculo Diferencial e Integral I]()
+- [x] [MAT01101 - Cálculo Diferencial e Integral I](./Cálculo%20Diferencial%20e%20Integral%20I/README.md)
 - [x] [INF01105 - Organização de Computadores]()
 - [x] [MAT01104 - Lógica Matemática]()
 - [x] [INF01106 - Programação I]()
