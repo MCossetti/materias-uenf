@@ -71,7 +71,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [ ] INF01131 - Monografia
 
 ### Disciplinas Optativas Eletivas
-- [x] INF01221 - Tópicos Especiais em Engenharia de Software III: Padrões de Projeto
+- [x] [INF01221 - Tópicos Especiais em Engenharia de Software III: Padrões de Projeto](./Tópicos%20Especiais%20em%20Engenharia%20de%20Software%20III%20Padrões%20de%20Projeto/README.md)
 - [ ] Optativa II
 - [ ] Optativa III
 - [ ] Optativa IV
