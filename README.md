@@ -28,7 +28,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [ ] FIS01109 - Laboratório de Física Geral II
 - [x] [INF01112 - Arquitetura de Computadores](./Arquitetura%20de%20Computadores/README.md)
 - [x] [INF01113 - Paradigmas de Linguagens de Programação](./Paradigmas%20de%20Linguagens%20de%20Programação/README.md)
-- [x] INF01114 - Estruturas de Dados I
+- [x] [INF01114 - Estruturas de Dados I](./Estrutura%20de%20Dados%20I/README.md)
 
 ### 4º período:
 - [ ] MAT01208 - Cálculo Numérico
