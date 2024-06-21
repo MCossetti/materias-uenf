@@ -17,9 +17,9 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [FIS01202 - Física Geral I](./Física%20Geral%20I/README.md)
 - [x] [FIS01204 - Laboratório de Física Geral I](./Laboratório%20de%20Física%20Geral%20I/README.md)
 - [x] [INF01104 - Lógica Digital](./Lógica%20Digital/README.md)
-- [x] INF01207 - Estruturas Discretas
+- [x] [INF01207 - Estruturas Discretas](./Estruturas%20Discretas/README.md)
 - [x] [INF01209 - Programação II](./Programação%20II/README.md)
-- [x] LEL04206 - Inglês Instrumental II
+- [x] [LEL04206 - Inglês Instrumental II](./Inglês%20Instrumental%20I/README.md)
 
 ### 3º período:
 - [ ] MAT01106 - Métodos Matemáticos 
