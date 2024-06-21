@@ -15,11 +15,11 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [MAT01212 - Álgebra Linear](./Álgebra%20Linear/README.md)
 - [x] [MAT01203 - Cálculo Diferencial e Integral II](./Cálculo%20Diferencial%20e%20Integral%20II/README.md)
 - [x] [FIS01202 - Física Geral I](./Física%20Geral%20I/README.md)
-- [x] [FIS01204 - Laboratório de Física Geral I]()
+- [x] FIS01204 - Laboratório de Física Geral I
 - [x] [INF01104 - Lógica Digital](./Lógica%20Digital/README.md)
-- [x] [INF01207 - Estruturas Discretas]()
-- [x] [INF01209 - Programação II]()
-- [x] [LEL04206 - Inglês Instrumental II]()
+- [x] INF01207 - Estruturas Discretas
+- [x] INF01209 - Programação II
+- [x] LEL04206 - Inglês Instrumental II
 
 ### 3º período:
 - [ ] MAT01106 - Métodos Matemáticos 
@@ -27,24 +27,24 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [ ] FIS01103 - Física Geral II
 - [ ] FIS01109 - Laboratório de Física Geral II
 - [x] [INF01112 - Arquitetura de Computadores](./Arquitetura%20de%20Computadores/README.md)
-- [x] [INF01113 - Paradigmas de Linguagens de Programação]()
-- [x] [INF01114 - Estruturas de Dados I]()
+- [x] INF01113 - Paradigmas de Linguagens de Programação
+- [x] INF01114 - Estruturas de Dados I
 
 ### 4º período:
 - [ ] MAT01208 - Cálculo Numérico
 - [ ] MAT01201 - Estatística e Probabilidades
-- [x] [INF01204 - Sistema Operacional]()
-- [x] [INF01202 - Estrutura de Dados II]()
-- [x] [INF01203 - Programação Orientada a Objetos]()
-- [x] [INF01201 - Análise e Projeto de Sistemas]()
+- [x] INF01204 - Sistema Operacional
+- [x] INF01202 - Estrutura de Dados II
+- [x] INF01203 - Programação Orientada a Objetos
+- [x] INF01201 - Análise e Projeto de Sistemas
 
 ### 5º período:
 - [ ] MAT01107 - Processos Estocásticos
 - [ ] INF01115 - Redes de Computadores
 - [ ] INF01117 - Linguagens Formais e Teoria da Computação
-- [ ] INF01116 - Banco de Dados I
+- [x] [INF01116 - Banco de Dados I](./Banco%20de%20Dados%20I/README.md)
 - [ ] INF01119 - Engenharia de Software
-- [x] [LES04536 - Computação e Sociedade]()
+- [x] LES04536 - Computação e Sociedade
 
 ### 6º período:
 - [ ] INF01211 - Pesquisa Operacional
@@ -61,7 +61,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [ ] PRO01122 - Metodologia Científica para Engenharia de Produção
 
 ### 8º período:
-- [x] [PRO01540 - Empreendedorismo]()
+- [x] PRO01540 - Empreendedorismo
 
 ### 9º período:
 - [ ] INF01130 - Projeto de Monografia
@@ -71,7 +71,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [ ] INF01131 - Monografia
 
 ### Disciplinas Optativas Eletivas
-- [x] [INF01221 - Tópicos Especiais em Engenharia de Software III: Padrões de Projeto]()
+- [x] INF01221 - Tópicos Especiais em Engenharia de Software III: Padrões de Projeto
 - [ ] Optativa II
 - [ ] Optativa III
 - [ ] Optativa IV
