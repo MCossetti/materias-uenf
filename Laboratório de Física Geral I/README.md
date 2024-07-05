@@ -9,14 +9,14 @@
 2. Medidas físicas e grandezas da física (tempo, espaço, etc.);
 3. Traçado de gráficos, apresentação de tabelas e relatórios científicos;
 4. Determinação experimental do domínio de validade de alguns modelos físicos:
-    - Movimento Retilíneo
-    - Forças x Vetores
-    - Movimento em Duas e Três Dimensões
-    - Energia Cinética e Energia Potencial
-    - Trabalho
-    - Conservação de Energia
-    - Sistemas de Partículas
-    - Colisões
-    - Rotação
-    - Momento Angular
-    - Momento de Inércia
+    1. Movimento Retilíneo
+    2. Forças x Vetores
+    3. Movimento em Duas e Três Dimensões
+    4. Energia Cinética e Energia Potencial
+    5. Trabalho
+    6. Conservação de Energia
+    7. Sistemas de Partículas
+    8. Colisões
+    9. Rotação
+    10. Momento Angular
+    11. Momento de Inércia
