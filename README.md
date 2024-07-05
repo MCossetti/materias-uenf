@@ -22,7 +22,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [LEL04206 - Inglês Instrumental II](./Inglês%20Instrumental%20II/README.md)
 
 ### 3º período:
-- [ ] MAT01106 - Métodos Matemáticos 
+- [x] [MAT01106 - Métodos Matemáticos](./Métodos%20Matemáticos/README.md) 
 - [ ] MAT01105 - Cálculo Diferencial e Integral III
 - [ ] FIS01103 - Física Geral II
 - [ ] FIS01109 - Laboratório de Física Geral II
