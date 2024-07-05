@@ -1,4 +1,4 @@
-# Programação I
+# Introdução à Ciência da Computação
 
 ###### A seguir é possível acessar todo o conteúdo utilizado na aplicação da disciplina:
 
