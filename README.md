@@ -19,7 +19,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [INF01104 - Lógica Digital](./Lógica%20Digital/README.md)
 - [x] [INF01207 - Estruturas Discretas](./Estruturas%20Discretas/README.md)
 - [x] [INF01209 - Programação II](./Programação%20II/README.md)
-- [x] [LEL04206 - Inglês Instrumental II](./Inglês%20Instrumental%20I/README.md)
+- [x] [LEL04206 - Inglês Instrumental II](./Inglês%20Instrumental%20II/README.md)
 
 ### 3º período:
 - [ ] MAT01106 - Métodos Matemáticos 
