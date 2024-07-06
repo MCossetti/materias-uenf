@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1701868935 source:c:\users\maria\onedrive\documentos\uenf\ed2\3\avl.c
+	<stdio.h>
+	<stdlib.h>
+	"AVL.h"
+
+1701698847 c:\users\maria\onedrive\documentos\uenf\ed2\3\avl.h
+
+1701865691 source:c:\users\maria\onedrive\documentos\uenf\ed2\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AVL.h"
+

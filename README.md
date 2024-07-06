@@ -33,8 +33,8 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 ### 4º período:
 - [ ] MAT01208 - Cálculo Numérico
 - [x] [MAT01201 - Estatística e Probabilidades](./Estatística%20e%20Probabilidades/README.md)
-- [x] INF01204 - Sistema Operacional
-- [x] INF01202 - Estrutura de Dados II
+- [x] [INF01204 - Sistema Operacional](./Sistema%20Operacional/README.md)
+- [x] [INF01202 - Estrutura de Dados II](./Estrutura%20de%20Dados%20II/README.md)
 - [x] INF01203 - Programação Orientada a Objetos
 - [x] INF01201 - Análise e Projeto de Sistemas
 
