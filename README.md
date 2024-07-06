@@ -23,7 +23,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 
 ### 3º período:
 - [x] [MAT01106 - Métodos Matemáticos](./Métodos%20Matemáticos/README.md) 
-- [ ] MAT01105 - Cálculo Diferencial e Integral III
+- [x] [MAT01105 - Cálculo Diferencial e Integral III](./Cálculo%20Diferencial%20e%20Integral%20III/README.md)
 - [ ] FIS01103 - Física Geral II
 - [ ] FIS01109 - Laboratório de Física Geral II
 - [x] [INF01112 - Arquitetura de Computadores](./Arquitetura%20de%20Computadores/README.md)
@@ -32,7 +32,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 
 ### 4º período:
 - [ ] MAT01208 - Cálculo Numérico
-- [ ] MAT01201 - Estatística e Probabilidades
+- [x] MAT01201 - Estatística e Probabilidades
 - [x] INF01204 - Sistema Operacional
 - [x] INF01202 - Estrutura de Dados II
 - [x] INF01203 - Programação Orientada a Objetos
@@ -40,10 +40,10 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 
 ### 5º período:
 - [ ] MAT01107 - Processos Estocásticos
-- [ ] INF01115 - Redes de Computadores
-- [ ] INF01117 - Linguagens Formais e Teoria da Computação
+- [x] INF01115 - Redes de Computadores
+- [x] INF01117 - Linguagens Formais e Teoria da Computação
 - [x] [INF01116 - Banco de Dados I](./Banco%20de%20Dados%20I/README.md)
-- [ ] INF01119 - Engenharia de Software
+- [x] INF01119 - Engenharia de Software
 - [x] LES04536 - Computação e Sociedade
 
 ### 6º período:
