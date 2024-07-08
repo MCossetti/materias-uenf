@@ -61,7 +61,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [ ] PRO01122 - Metodologia Científica para Engenharia de Produção
 
 ### 8º período:
-- [x] PRO01540 - Empreendedorismo
+- [x] [PRO01540 - Empreendedorismo](./Empreendedorismo/README.md)
 
 ### 9º período:
 - [ ] INF01130 - Projeto de Monografia
