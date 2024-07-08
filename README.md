@@ -44,7 +44,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] INF01117 - Linguagens Formais e Teoria da Computação
 - [x] [INF01116 - Banco de Dados I](./Banco%20de%20Dados%20I/README.md)
 - [x] [INF01119 - Engenharia de Software](./Engenharia%20de%20Software/README.md)
-- [x] LES04536 - Computação e Sociedade
+- [x] [LES04536 - Computação e Sociedade](./Computação%20e%20Sociedade/README.md)
 
 ### 6º período:
 - [ ] INF01211 - Pesquisa Operacional
