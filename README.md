@@ -40,10 +40,10 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 
 ### 5º período:
 - [ ] MAT01107 - Processos Estocásticos
-- [x] INF01115 - Redes de Computadores
+- [x] [INF01115 - Redes de Computadores](./Redes%20de%20Computadores/README.md)
 - [x] INF01117 - Linguagens Formais e Teoria da Computação
 - [x] [INF01116 - Banco de Dados I](./Banco%20de%20Dados%20I/README.md)
-- [x] INF01119 - Engenharia de Software
+- [x] [INF01119 - Engenharia de Software](./Engenharia%20de%20Software/README.md)
 - [x] LES04536 - Computação e Sociedade
 
 ### 6º período:
