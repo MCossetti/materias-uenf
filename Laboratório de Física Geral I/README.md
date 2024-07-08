@@ -1,5 +1,7 @@
 # Laboratório de Física Geral I
 
+###### A seguir é possível acessar todo o conteúdo utilizado na aplicação da disciplina:
+
 - [Materiais](./Materiais/)
 - [Listas](./Listas/)
 
