@@ -84,4 +84,4 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [ ] Eletiva III
 - [ ] Eletiva IV
 
-*Matérias em andamento, logo o vai estar tudo bagunçado
+*Matérias em andamento, logo vai estar tudo bagunçado
