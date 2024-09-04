@@ -31,7 +31,7 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [INF01114 - Estruturas de Dados I](./Estrutura%20de%20Dados%20I/README.md)
 
 ### 4º período:
-- [ ] MAT01208 - Cálculo Numérico
+- [x] [MAT01208 - Cálculo Numérico](./Calculo%20Numerico/) *
 - [x] [MAT01201 - Estatística e Probabilidades](./Estatística%20e%20Probabilidades/README.md)
 - [x] [INF01204 - Sistema Operacional](./Sistema%20Operacional/README.md)
 - [x] [INF01202 - Estrutura de Dados II](./Estrutura%20de%20Dados%20II/README.md)
@@ -47,12 +47,12 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [x] [LES04536 - Computação e Sociedade](./Computação%20e%20Sociedade/README.md)
 
 ### 6º período:
-- [ ] INF01211 - Pesquisa Operacional
+- [x] [INF01211 - Pesquisa Operacional](./Pesquisa%20Operacional/) *
 - [ ] INF01124 - Introdução à Computação Gráfica
-- [ ] INF01212 - Compiladores
-- [ ] INF01206 - Banco de Dados II
-- [ ] INF01205 - Inteligência Artificial
-- [ ] INF01210 - Paradigma Orientado a Objetos para Desenvolvimento de Software
+- [x] [INF01212 - Compiladores](./Compiladores/) *
+- [x] [INF01206 - Banco de Dados II](./Banco%20de%20Dados%20II/) *
+- [x] [INF01205 - Inteligência Artificial](./Inteligência%20Artificial/) *
+- [x] [INF01210 - Paradigma Orientado a Objetos para Desenvolvimento de Software](./Paradigma%20Orientado%20a%20Objetos%20para%20Desenvolvimento%20de%20Software/README.md) *
   
 ### 7º período:
 - [ ] INF01122 - Sistemas Distribuídos
@@ -83,3 +83,5 @@ A seguir é possível acessar todos os materias feitos e utilizados por mim para
 - [ ] Eletiva II
 - [ ] Eletiva III
 - [ ] Eletiva IV
+
+*Matérias em andamento, logo o vai estar tudo bagunçado
