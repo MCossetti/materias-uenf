@@ -24,17 +24,27 @@ def ponto_fixo_iterativo(x0, tol, max_iter):
     return x
 
 def plot_grafico(a, b):
+    fig, ax = plt.subplots(nrows=2, ncols= 1)
     xp = np.linspace(a, b, 100)
     yp = f(xp)
-    plt.plot(xp, yp, c='b')
-    plt.axhline(0, c='r')
-    plt.axvline(0, c="r")
+
+    gy = g(yp)
+    hy = f(xp)
+
+    ax[0, 0].plot(xp, yp, c='b')
+    ax[0].axhline(0, c='r')
+    ax[0].axvline(0, c="r")
     plt.scatter([raiz], [0], c="r", s = 50)
-    plt.axis([a, b, f(a) - 5, f(b) + 5])
+    ax[0].axis([a, b, f(a) - 5, f(b) + 5])
     #plt.title(r"Ponto Fixo[{}, {:.2}]".format(a, b))
     plt.title(r"raiz = {:.4}".format(raiz))
     plt.xlabel('eixo x ')
     plt.ylabel('eixo y ')
+
+    ax[1].plot(xp, gy)
+    ax[1].plot(xp, hy, c='r')
+    ax[1].axis([a, b, f(a) - 5, f(b) + 5])
+
     plt.grid()
     plt.show()
 
