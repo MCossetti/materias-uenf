@@ -5,7 +5,7 @@ def f(x):
     return x + exp(x) - 2
 
 def newton(p0, max_iteracoes):
-    # p0 de froam que f'(p0) != 0
+    # p0 de forma que f'(p0) != 0
     iteracoes = 0
 
     # valores iniciais
